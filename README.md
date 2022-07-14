@@ -17,7 +17,7 @@ A Tableau story visualization of August, 2019, New York City CitiBike data can b
 
 Text elements on the Web-published story visualization do not appear in the same locations in which they were placed in the Tableau software. This is a technical issue, not a design issue, and, at this point, I do not know how to rectify it.
 
-The text elements are, however, at least *near* where they was originally placed, and so their intent can most-likely be inferred despite their inaccurate locations.
+The text elements are, however, at least *near* where they were originally placed, and so their intent can most-likely be inferred despite their inaccurate locations.
 
 ### Effect by Gender
 
